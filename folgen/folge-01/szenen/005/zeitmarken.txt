@@ -1,0 +1,21 @@
+# Zeitmarken Szene 005 – Sekunden relativ zum Szenenanfang
+# Dauer der Szene: 137.000 s. 48 kHz.
+# start    ende     spur                     rolle              text
+
+ 41.000   41.954  005-stimme-vincent.wav    Vincent             Schön, dich zu sehen.
+ 46.000   46.856  005-stimme-henry.wav      Henry               Es ist lange her.
+ 48.500   49.670  005-stimme-vincent.wav    Vincent             Ja, das ist es.
+ 51.000   54.313  005-stimme-henry.wav      Henry               Glaub nicht, dass es immer so bleiben wird, nur weil du jetzt oben bist.
+ 56.000   58.337  005-stimme-vincent.wav    Vincent             Aha. Ich sehe, du hasst mich immer noch.
+ 61.000   63.887  005-stimme-henry.wav      Henry               Manchmal werden deine besten Freunde zu deinen schlimmsten Feinden.
+ 66.000   68.509  005-stimme-vincent.wav    Vincent             Ich habe diese Wahl nicht getroffen. Das warst du.
+ 69.200   70.590  005-stimme-vincent.wav    Vincent             Du hast mich zweimal verraten.
+ 71.000   74.048  005-stimme-henry.wav      Henry               Nach all diesen Jahren erinnerst du dich, wie oft ich dich verraten habe?
+ 76.000   77.610  005-stimme-vincent.wav    Vincent             So etwas vergisst man nicht so leicht.
+ 81.000   86.572  005-stimme-henry.wav      Henry               Es ist noch nicht vorbei, Vincent. Ich werde dein Unternehmen Sword zerstören. Das ist ein Versprechen.
+ 86.800   88.628  005-stimme-vincent.wav    Vincent             Das kannst du nicht. Versuch's doch.
+ 90.200   90.862  005-stimme-henry.wav      Henry               Das werde ich.
+  0.000  137.000  005-musik.wav             R4 Begegnung        Spannungsfläche, unter Dialog weg
+ 15.000   16.200  005-sfx.wav               Sync 5.4            Körperstoß
+ 35.000   36.800  005-sfx.wav               Sync 5.7            Schwertklang, Film-TC 03:53
+  0.000  137.000  005-sfx.wav               Atmo                Stadt, später Tür und Motor
