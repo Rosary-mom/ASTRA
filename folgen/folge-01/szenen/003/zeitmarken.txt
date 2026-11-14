@@ -1,0 +1,6 @@
+# Zeitmarken Szene 003 – Sekunden relativ zum Szenenanfang
+# Dauer der Szene: 14.000 s. 48 kHz.
+# start    ende     spur                     rolle              text
+
+  0.000   14.000  003-musik.wav             R3 Wiege            Sphärenharfe solo, 6/8, kein Dialog
+  0.400   13.500  003-sfx.wav               Atmo                Schaukelstuhl knarrt
