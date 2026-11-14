@@ -1,0 +1,8 @@
+# Zeitmarken Szene 004 – Sekunden relativ zum Szenenanfang
+# Dauer der Szene: 25.000 s. 48 kHz.
+# start    ende     spur                     rolle              text
+
+  0.000   15.200  004-musik.wav             R3 Wiege            Harfe, bricht auf den Schrei ab
+  5.200    6.300  004-sfx.wav               Neugeborenes        synthetischer Kinderschrei, keine Personenstimme
+ 15.000   16.700  004-sfx.wav               Mutter              synthetischer Schrei, keine Personenstimme; Sync 4.4
+ 21.000   25.000  004-sfx.wav               Atmo                leiser Stadtteppich nach der Stille
