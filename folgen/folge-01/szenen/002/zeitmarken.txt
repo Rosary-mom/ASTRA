@@ -1,0 +1,7 @@
+# Zeitmarken Szene 002 – Sekunden relativ zum Szenenanfang
+# Dauer der Szene: 54.000 s. 48 kHz.
+# start    ende     spur                     rolle              text
+
+ 18.000   49.152  002-stimme-dunkler-herr.wav  Dunkler Herr        Zeige keine Gnade. Zerstöre die gesamte Menschheit und lenke sie von der letzten Autorität ab. Verwirre die Kinder. Spaltet alle Menschen, Familien und Ehen. Aber passt auf, es kommt ein Rest, ihnen wurde die Autorität gegeben, eine große Mission auszuführen, und diejenigen, die das tun, können unserer Legion große Gefahr bringen. Denn unsere Zeit hier ist kurz, und wir müssen jedes unschuldige und unwissende Wesen verschlingen.
+  0.000   54.000  002-musik.wav             R2 Befehl           Es-Drohne, Tritonus A–Es, unter Stimme −12 dB
+  0.000   54.000  002-sfx.wav               Atmo                Wind, Sand, Glut
