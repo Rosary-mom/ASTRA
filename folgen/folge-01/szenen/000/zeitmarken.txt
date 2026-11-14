@@ -1,0 +1,6 @@
+# Zeitmarken Szene 000 – Sekunden relativ zum Szenenanfang
+# Dauer der Szene: 12.000 s. 48 kHz.
+# start    ende     spur                     rolle              text
+
+  0.000   12.000  000-musik.wav             Fanfare             Jericho-Fanfare 434 Hz, wiederverwendet
+  8.500    9.585  000-stimme-godfather.wav  God-Father          Der Fall.
