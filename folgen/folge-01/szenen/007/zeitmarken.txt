@@ -1,0 +1,33 @@
+# Zeitmarken Szene 007 – Sekunden relativ zum Szenenanfang
+# Dauer der Szene: 213.000 s. 48 kHz.
+# start    ende     spur                     rolle              text
+
+  8.000   10.630  007-stimme-vincent.wav    Vincent             Rate mal, wen ich heute auf der Straße getroffen habe.
+ 13.069   13.443  007-stimme-jason.wav      Jason               Wen?
+ 14.972   15.443  007-stimme-vincent.wav    Vincent             Henry.
+ 17.009   18.874  007-stimme-jason.wav      Jason               Wirklich? Was hat er gesagt?
+ 20.840   24.278  007-stimme-vincent.wav    Vincent             Er hasst mich immer noch. Es hat viele Erinnerungen zurückgebracht.
+ 26.953   29.126  007-stimme-jason.wav      Jason               Natürlich. Rachel und der Biochip.
+ 31.200   36.861  007-stimme-vincent.wav    Vincent             Es ist schon schwer genug, verraten zu werden. Und wenn es zweimal passiert, macht es das ein wenig schwer zu vergessen.
+ 40.501   43.908  007-stimme-vincent.wav    Vincent             Ihn heute zu sehen, hat Erinnerungen an uns im Gerichtssaal zurückgebracht.
+ 46.729   48.919  007-stimme-corey.wav      Corey               Was genau ist zwischen dir und Henry passiert?
+ 51.212   53.331  007-stimme-vincent.wav    Vincent             Ich habe dir die Geschichte nie erzählt, Corey.
+ 55.643   56.527  007-stimme-corey.wav      Corey               Was ist passiert?
+ 58.292   70.541  007-stimme-vincent.wav    Vincent             Ich komme aus armen Verhältnissen. Aus den Ghettos. Henry aus einem reichen Haus. Aber ich habe mir immer gesagt, dass ich niemals arm enden würde wie meine Eltern. Und ich war gut in der Schule und konnte später nach Harvard gehen.
+ 76.219   77.707  007-stimme-jason.wav      Jason               Hast du dort Henry kennengelernt?
+ 79.763   84.886  007-stimme-vincent.wav    Vincent             Ja, wir waren beste Freunde. Aber dann haben wir uns in dieselbe Frau verliebt. Rachel.
+ 87.925   88.736  007-stimme-corey.wav      Corey               Immer eine Frau.
+ 90.483  103.414  007-stimme-vincent.wav    Vincent             Rachel entschied, dass ich der Richtige für sie sei, und Henry begann, mich zu hassen. Zu der Zeit hatte ich bereits die Idee für den Biochip entwickelt, und Henry wusste davon. Ich erzählte ihm davon. Henry wollte den Chip mit mir entwickeln.
+109.237  111.783  007-stimme-vincent.wav    Vincent             Aber er konnte es nicht ertragen, mich mit Rachel zu sehen.
+114.313  115.124  007-stimme-corey.wav      Corey               Was hat er getan?
+116.890  124.279  007-stimme-vincent.wav    Vincent             Er überzeugte Rachel, dass ich mit einer anderen Frau zusammen war. Sie glaubte es und trennte sich von mir. Später kam sie dann mit Henry zusammen.
+128.429  130.963  007-stimme-vincent.wav    Vincent             Ich verlor meinen besten Freund und die Liebe meines Lebens.
+136.423  137.939  007-stimme-corey.wav      Corey               Das muss schrecklich gewesen sein.
+140.014  149.510  007-stimme-vincent.wav    Vincent             Aber ich habe meine Lektion nicht gelernt. Wir planten, gemeinsam eine Firma zu gründen. Er kam auf die Idee, dass der Biochip seine Idee sei, und nahm einige Dokumente an sich.
+154.187  154.514  007-stimme-corey.wav      Corey               Mann.
+156.060  162.286  007-stimme-vincent.wav    Vincent             Wir gingen vor Gericht und kämpften um die Rechte am Biochip. Aber ich gewann, ich konnte beweisen, dass es meine Idee war.
+165.980  171.545  007-stimme-vincent.wav    Vincent             Später verließ Rachel ihn auch. Sie nahm wieder Kontakt mit mir auf und erkannte dann, dass ich sie nie betrogen hatte.
+175.167  177.079  007-stimme-jennifer.wav   Jennifer            Möchten die Herren noch mehr Champagner?
+179.263  180.229  007-stimme-jason.wav      Jason               Nein, danke.
+181.904  198.000  007-stimme-vincent.wav    Vincent             Sie erzählte mir, dass Henry sich aufgrund all des Hasses gegen mich zu einer sehr bösen Person entwickelt hatte. Er öffnete sich dunklen spirituellen Kräften. Sie sagte, er habe erklärt, er würde mich zerstören – das sei das Ziel seines Lebens. Und eines Tages würde er mein Unternehmen übernehmen, das ich heute habe.
+  0.000  213.000  007-musik.wav             R5 Bar              kammermusikalische Fläche, unter Dialog leise
