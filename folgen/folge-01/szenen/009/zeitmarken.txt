@@ -1,0 +1,14 @@
+# Zeitmarken Szene 009 – Sekunden relativ zum Szenenanfang
+# Dauer der Szene: 185.000 s. 48 kHz.
+# start    ende     spur                     rolle              text
+
+  8.000    9.796  009-stimme-henry.wav      Henry               Lass uns den dunklen Herrn anbeten.
+ 12.796   13.625  009-stimme-karl.wav       Karl                Ich bin bereit.
+ 31.625   39.350  009-stimme-henry.wav      Henry               Dunkler Herr, wir rufen deinen Namen an. Sende deine Dämonen, um Böses in dieser Stadt zu tun, besonders im Geschäftsleben der Stadt.
+ 47.350   48.739  009-stimme-daemon.wav     Dämon (in Henry)    Sende uns mit deinen Worten.
+ 54.739   60.822  009-stimme-henry.wav      Henry               Ich entfessele die dunklen Kräfte. Zerstört Ehen, zerstört Familien. Zerstört Microsword.
+ 65.822   67.348  009-stimme-henry.wav      Henry               Kommt hervor und geht jetzt.
+  0.000  185.000  009-musik.wav             R7 Glasdach         dunkle Fläche, wächst zum Ritual
+ 70.348   72.348  009-sfx.wav               Henry (Laut)        synthetischer Schrei, keine Personenstimme
+150.000  156.000  009-sfx.wav               Sync 9.T1           Glas in Zeitlupe, angesetzt bei 150,0 s (02:30) – Offset in der 185-s-Szene war offen
+148.000  170.000  009-chor.wav              Chor                dunkle Ooh-Fläche unter dem Bruch
