@@ -1,0 +1,12 @@
+# Zeitmarken Szene 006 – Sekunden relativ zum Szenenanfang
+# Dauer der Szene: 146.000 s. 48 kHz.
+# start    ende     spur                     rolle              text
+
+ 18.000   20.651  006-stimme-richard.wav    Richard             Darf ich um Ihre Aufmerksamkeit bitten, alle zusammen?
+ 21.151   42.510  006-stimme-richard.wav    Richard             Vielen Dank, dass Sie heute Abend gekommen sind, um den Sieg des Microsword-Biochips zu feiern. Dieses bahnbrechende, miniaturisierte Kommunikationsgerät wird nicht nur den Moment, in dem wir uns jetzt befinden, verändern, sondern die ganze Welt und die Art, wie wir miteinander kommunizieren. Es ist mir eine Freude und ein Privileg, Ihnen und den Nationen den innovativen Vincent Miller und den neuesten Erfolg von Microsword vorzustellen.
+ 50.000   72.868  006-stimme-vincent.wav    Vincent             Ich möchte Ihnen allen für Ihre harte Arbeit und Ihr Engagement bei diesem lebenslangen Traum und Projekt von mir danken. Als Kind, das in Armut aufwuchs, obdachlos und schließlich verwaist, war ich entschlossen, über meine Umstände hinauszuwachsen. Obwohl es als ein Samenkorn einer Vision in mir begann, sind Sie an meine Seite getreten und haben mit mir geglaubt, dass dieser Same eines Tages zu einem mächtigen Baum heranwachsen würde, der jedem Wind und jedem Element des Widerstands standhalten kann.
+ 73.418   89.141  006-stimme-vincent.wav    Vincent             Es ist unsere Mission und unser Anliegen, jenen zu helfen, die auf diese Weise leiden, sie in der Gesellschaft aufzubauen und sie zu rehabilitieren, damit sie erfolgreiche und aufrechte Bürger werden. Das bedeutet nicht nur großen Reichtum und Erfolg für Sword. Das bedeutet großen Reichtum und Erfolg für seine Mitarbeiter.
+ 89.691  101.702  006-stimme-vincent.wav    Vincent             Für mich ist Mitarbeiter kein Wort, das Sie so ehrt, wie Sie es verdienen. Sie sind alle meine Freunde. Vielen Dank und genießen Sie den Abend. Es gibt hier viel Essen, ich hoffe, Sie sind alle hungrig gekommen. Nochmals danke.
+  0.000   22.000  006-musik.wav             R5 Klavier          diegetisches Klavier, wird leiser vor Richard (ab 15 s)
+ 30.000  146.000  006-musik.wav             R5 Büro             leises Underscoring unter der Rede
+ 42.510   47.010  006-sfx.wav               Applaus             nach Richards Vorstellung
