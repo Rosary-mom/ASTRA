@@ -13,3 +13,7 @@
 | audio/music/trailer-mit-sprecher-60s.wav / .mp3 | Fidelio, 60-s-Mischung aus Trailer-Tonspur, Sprecher v3 und Engelschor v3 (Ducking 12 dB, Fade-out 2,75 s) | siehe Einzelspuren; Mischung eigenes Werk, Rosary Ministries International |
 | audio/voices/sprecher-godfather-v4-60s.wav | Fidelio, Piper TTS 1.8.0 de_DE-thorsten-medium (CC0); v4 aus denselben Rohaufnahmen wie v2/v3, aber korrekt skaliert (Overdrive in c1 behoben), 60,0 s, Fade-out | Stimmmodell CC0; Piper MIT/GPL; Sprachaufnahme eigenes Werk, Rosary Ministries International |
 | audio/music/trailer-mit-sprecher-60s-v4.wav / .mp3 | Fidelio, 60-s-Mischung aus Trailer-Tonspur, Sprecher v4 und Engelschor v3 (Ducking 12 dB, Fade-out 2,75 s) | siehe Einzelspuren; Mischung eigenes Werk, Rosary Ministries International |
+
+## Folge 1 „Der Fall“
+
+Die Einzelspuren liegen verlustfrei als FLAC (24 Bit, 48 kHz) unter [`folgen/folge-01/szenen/`](folgen/folge-01/szenen/). Die ausführlichen Lizenzzeilen je Datei stehen in [`folgen/folge-01/LIZENZEN-folge-1.md`](folgen/folge-01/LIZENZEN-folge-1.md).
