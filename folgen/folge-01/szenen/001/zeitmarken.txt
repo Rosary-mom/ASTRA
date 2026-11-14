@@ -1,0 +1,12 @@
+# Zeitmarken Szene 001 – Sekunden relativ zum Szenenanfang
+# Dauer der Szene: 105.000 s. 48 kHz.
+# start    ende     spur                     rolle              text
+
+  2.000    3.859  001-stimme-rachel.wav     Rachel (Off)        Alles begann mit einem Kampf im Himmel.
+ 35.000   43.555  001-stimme-rachel.wav     Rachel (Off)        Der Engel Luzifer war der schönste aller Engel, und er wollte die Kontrolle über seinen eigenen Schöpfer übernehmen, denjenigen, der die letzte Autorität ist.
+ 47.000   52.441  001-stimme-rachel.wav     Rachel (Off)        Also verführte er ein Drittel der anderen Engel, sich ihm in der Rebellion gegen den Schöpfer anzuschließen.
+ 55.000   60.821  001-stimme-rachel.wav     Rachel (Off)        Der Schöpfer verbannte daraufhin den dunklen Herrn und seine gefallenen Engel aus dem Himmel und warf sie auf die Erde.
+  0.000  105.000  001-musik.wav             R1 Fall             D-Dorisch, ab 35 s Kippung d-Moll, Tutti, Lichtschlag 90 s
+ 90.000   92.200  001-musik.wav             Sync 1.19           Lichtschlag
+  0.000   70.000  001-chor.wav              Engelschor          Aah/Ooh, 434 Hz, unter Off −20 dB
+ 90.000   92.500  001-sfx.wav               Sync 1.19           Lichtschlag / Einschlag
